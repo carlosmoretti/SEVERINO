@@ -1,0 +1,26 @@
+﻿Instalando o assembly 'C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe
+   logfile = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.InstallLog
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe.
+Confirmando o assembly 'C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe
+   logfile = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.InstallLog
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe.
+Remova o arquivo InstallState porque não há instaladores.
+Instalando o assembly 'C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe
+   logfile = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.InstallLog
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.exe
+   logfile = C:\Users\Moretti\source\repos\ApontaHoras\ApontaHoras\bin\Debug\ApontaHoras.InstallLog
